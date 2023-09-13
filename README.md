@@ -12,11 +12,9 @@ I'm a full stack developer from Houston, TX. I work with Javascript, React, Mong
 
 * ⚛️ React
 * 💻 Javascript / Node / Express
+* 🐍 Python
 * 💾 MongoDB / MySQL
 * 👩🏽‍💻 HTML / CSS
-
-
-[![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtrevz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
